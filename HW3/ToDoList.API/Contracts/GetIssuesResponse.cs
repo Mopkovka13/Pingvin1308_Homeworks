@@ -1,4 +1,6 @@
-﻿namespace ToDoList.API.Contracts
+﻿using ToDoList.Repository.Entities;
+
+namespace ToDoList.API.Contracts
 {
     public sealed class GetIssuesResponse
     {
